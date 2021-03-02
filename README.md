@@ -1,6 +1,6 @@
 ### Hello there!
 
-I am Terrabade.
+I am Shmed.
 
 I do some dev work as a hobby, my current projects include Lunaria & Eternia.\
 Lunaria is a Discord community guild geared towards Terraria.\
